@@ -8,7 +8,7 @@ class Main {
   public static void main(String[] args) throws IOException {
 
 
-
+//hi
 
 
 //makes an array containing every single input in order. 
